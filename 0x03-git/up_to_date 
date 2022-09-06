@@ -1,2 +1,2 @@
-echo "git pull"> up_to_date
+git pull
 git fetch origin main
